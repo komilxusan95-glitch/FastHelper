@@ -1,0 +1,7 @@
+{
+  "name": "FastHelper: Socratic Math Tutor",
+  "description": "A compassionate, patient AI math tutor that guides students through complex algebra and calculus using Socratic questioning and step-by-step guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
